@@ -1,0 +1,6 @@
+{
+    "fieldA": "Field A Value",
+    "object": {
+        "fieldB": "Field B Value"
+    }
+}
