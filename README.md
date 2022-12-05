@@ -22,6 +22,7 @@
 - [What is DataWeave? Part 2: Selectors](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/what-is-dataweave-part-ii-getting-started-tutorial/)
 - [What is DataWeave? Part 3: Variables, Flow Control, and Functions](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/what-is-dataweave-part-iii-getting-started-tutorial/)
 - [What is DataWeave? Part 4: Lambdas](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/what-is-dataweave-part-iv-getting-started-tutorial/)
+- [What is DataWeave? Part 5: Generics](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/what-is-dataweave-part-v-getting-started-tutorial/)
 - [Concatenation functions tips and tricks in DataWeave](https://developer.mulesoft.com/tutorials-and-howtos/concatenation-dataweave-functions-tips-and-tricks/)
 
 ## Contributing
