@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "environment": "dev"
+    },
+    {
+        "id": "2",
+        "environment": "test"
+    },
+    {
+        "id": "3",
+        "environment": "uat"
+    },
+    {
+        "id": "4",
+        "environment": "prod"
+    },
+    {
+        "id": "2",
+        "environment": "test2"
+    }
+]
