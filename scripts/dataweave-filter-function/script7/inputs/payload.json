@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Alexandra",
+        "Age": 80,
+        "Phones": [
+            {
+                "Primary": true,
+                "Type": "Cellphone",
+                "Label": "Personal",
+                "Code": "+1",
+                "Phone": "123-123-1231"
+            },
+            {
+                "Primary": false,
+                "Type": "Cellphone",
+                "Label": "Work",
+                "Code": "+1",
+                "Phone": "123-123-1232"
+            },
+            {
+                "Primary": true,
+                "Type": "Cellphone",
+                "Label": "Personal",
+                "Code": "+1",
+                "Phone": "123-123-1233"
+            }
+        ]
+    },
+    {
+        "Name": "David",
+        "Age": 10,
+        "Phones": [
+            {
+                "Primary": true,
+                "Type": "Cellphone",
+                "Label": "Personal",
+                "Code": "+1",
+                "Phone": "123-123-1233"
+            }
+        ]
+    },
+    {
+        "Name": "Sabrina",
+        "Age": 21,
+        "Phones": [
+            {
+                "Primary": false,
+                "Type": "Cellphone",
+                "Label": "Work",
+                "Code": "+1",
+                "Phone": "123-123-1234"
+            },
+            {
+                "Primary": true,
+                "Type": "Office",
+                "Label": "Work",
+                "Code": "+1",
+                "Phone": "123-123-1235"
+            }
+        ]
+    }
+]
