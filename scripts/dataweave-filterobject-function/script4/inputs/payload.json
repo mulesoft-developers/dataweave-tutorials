@@ -1,0 +1,10 @@
+{
+    "name": "Jerry Schumann",
+    "age": 34,
+    "phone": null,
+    "address": {
+        "street": "123 Main Street",
+        "country": "US",
+        "postalCode": null
+    }
+}

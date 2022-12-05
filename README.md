@@ -30,6 +30,7 @@
 
 - [DataWeave distinctBy function: How to remove duplicate items from an Array](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/distinctBy-function/)
 - [DataWeave filter function: How to filter items in an Array](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/filter-function/)
+- [DataWeave filterObject function: How to filter key/value pairs in an Object](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/filterObject-function/)
 
 ### DataWeave tips & tricks
 
