@@ -1,0 +1,14 @@
+[
+    {
+        "employee": "Josh",
+        "id": 1,
+        "phone": "123-123-1231",
+        "contract": "full-time"
+    },
+    {
+        "employee": "Max",
+        "id": 2,
+        "phone": "123-123-1231",
+        "contract": "part-time"
+    }
+]
