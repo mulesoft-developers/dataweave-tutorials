@@ -34,6 +34,7 @@
 - [DataWeave groupBy function: How to group items from Arrays, Strings, or Objects](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/groupBy-function/)
 - [DataWeave map function: How to iterate through all items in an Array](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/map-function/)
 - [DataWeave mapObject function: How to transform key/value pairs in an Object](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/mapObject-function/)
+- [DataWeave pluck function: How to transform an Object into an Array](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/pluck-function/)
 
 ### DataWeave tips & tricks
 

@@ -1,0 +1,6 @@
+%dw 2.0
+output application/json
+---
+payload 
+groupBy $.orderId
+pluck ((value) -> value)
