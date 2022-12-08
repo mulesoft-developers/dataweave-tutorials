@@ -35,6 +35,7 @@
 - [DataWeave map function: How to iterate through all items in an Array](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/map-function/)
 - [DataWeave mapObject function: How to transform key/value pairs in an Object](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/mapObject-function/)
 - [DataWeave pluck function: How to transform an Object into an Array](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/pluck-function/)
+- [DataWeave reduce function: How to loop through and transform an Array into a different type](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/reduce-function/)
 
 ### DataWeave tips & tricks
 

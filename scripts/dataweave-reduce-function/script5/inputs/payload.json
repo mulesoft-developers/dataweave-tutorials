@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "value": 10,
+        "count": true
+    },
+    {
+        "id": 2,
+        "value": 20,
+        "count": true
+    },
+    {
+        "id": 3,
+        "value": 7,
+        "count": false
+    },
+    {
+        "id": 4,
+        "value": 5,
+        "count": true
+    }
+]
