@@ -1,0 +1,9 @@
+{
+    "firstName": "Avery",
+    "lastName": "Chance",
+    "age": 56,
+    "occupation": "Physicist",
+    "address": {
+        "street": "123 Main Street"
+    }
+}

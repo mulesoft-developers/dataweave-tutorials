@@ -39,6 +39,7 @@
 
 ### DataWeave tips & tricks
 
+- [How to extract the keys from an Object in DataWeave using keysOf, namesOf, or pluck](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/extract-keys-from-object/)
 - [Concatenation functions tips and tricks in DataWeave](https://developer.mulesoft.com/tutorials-and-howtos/concatenation-dataweave-functions-tips-and-tricks/)
 
 ## Contributing
