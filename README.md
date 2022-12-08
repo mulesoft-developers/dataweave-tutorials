@@ -41,6 +41,7 @@
 
 - [How to extract the keys from an Object in DataWeave using keysOf, namesOf, or pluck](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/extract-keys-from-object/)
 - [How to compare different data types in DataWeave using equality operators](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/how-to-compare-data-types/)
+- [How to merge elements from two Arrays using map and groupBy in DataWeave](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/merge-elements-from-two-arrays-map-groupby/)
 - [Concatenation functions tips and tricks in DataWeave](https://developer.mulesoft.com/tutorials-and-howtos/concatenation-dataweave-functions-tips-and-tricks/)
 
 ## Contributing
