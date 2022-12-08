@@ -33,6 +33,7 @@
 - [DataWeave filterObject function: How to filter key/value pairs in an Object](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/filterObject-function/)
 - [DataWeave groupBy function: How to group items from Arrays, Strings, or Objects](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/groupBy-function/)
 - [DataWeave map function: How to iterate through all items in an Array](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/map-function/)
+- [DataWeave mapObject function: How to transform key/value pairs in an Object](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/mapObject-function/)
 
 ### DataWeave tips & tricks
 
